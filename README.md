@@ -1,2 +1,2 @@
-# UniLectureOfPyhton
+# UniLecturesOfPyhton
 PythonUniversitywork
